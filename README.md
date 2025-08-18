@@ -23,4 +23,16 @@ Mi objetivo es:
 
 - Añadir más ejercicios de cada tema.  
 - Empezar a crear mini proyectos útiles.  
-- Mejorar la documentación de cada archivo con comentarios y explicación del funcionamiento.
+- Mejorar la documentación de cada archivo con comentarios y explicación del funcionamiento.  
+
+---
+
+## Fuente de los ejercicios
+
+Los ejercicios de este repositorio están basados en la web **[Programming MOOC.fi](https://programming-23.mooc.fi/)**.  
+
+Todas las soluciones han sido **resueltas por mí**, adaptadas a español, comentadas y organizadas para mi aprendizaje y portfolio personal.  
+
+El propósito de este repositorio es **mostrar mi progreso aprendiendo Python** y no reproducir el contenido original con fines comerciales.  
+
+> Nota: A medida que encuentre o realice ejercicios de otras webs o recursos útiles, los iré añadiendo y documentando en este repositorio.
